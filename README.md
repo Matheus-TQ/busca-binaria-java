@@ -1,6 +1,6 @@
 # busca-binaria-java
 
-Este projeto contém uma implementação do algoritmo de busca binária em Java, baseado nos estudos do livro "Entendendo Algoritmos".
+Este projeto contém uma implementação do algoritmo de busca binária em Java, baseado no livro "Entendendo Algoritmos".
 
 ## 📌 O que aprendi
 - Como funciona a busca binária
