@@ -1,7 +1,5 @@
-package PesquisaBinaria;
-
-public class Teste {
-
+public class Main {
+	
 	public static void main(String[] args) {
 		
 		int[] lista = {1, 3, 5, 7, 9};
