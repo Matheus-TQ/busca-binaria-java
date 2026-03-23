@@ -1,7 +1,5 @@
-package PesquisaBinaria;
-
 public class BuscaBinaria {
-
+	
 	public static Integer pesquisaBinaria(int[] lista, int item) {
 		int baixo = 0; // Inicio do Array
 		int alto = lista.length - 1; // Final do Array
